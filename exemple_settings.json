@@ -1,0 +1,15 @@
+{
+    "twitch": {
+        "credentials": {
+            "client_id": "client_id_1234567890",
+            "client_secret": "client_secret_1234567890"
+        },
+        "settings": {
+            "default_limit": 10,
+            "default_period_days": 7
+        }
+    },
+    "download": {
+        "output_dir": "downloads"
+    }
+}
