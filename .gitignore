@@ -2,3 +2,6 @@
 downloads/
 __pycache__/
 settings.json
+client_secrets.json
+token.pickle
+test_video.mp4
